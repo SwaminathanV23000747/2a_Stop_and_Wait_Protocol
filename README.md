@@ -39,7 +39,7 @@ while True:
         break 
 ```
 ## OUTPUT
+![stop](https://github.com/SwaminathanV23000747/2a_Stop_and_Wait_Protocol/assets/148931113/65bd7755-f0df-4546-9781-4db6317287ad)
 
-![alt text](stop.png)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
